@@ -1,0 +1,20 @@
+{
+  "name": "automatedtest",
+  "version": "1.0.0",
+  "description": "This is the codebase for running automated test cases outlined in test report",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "faker": "^5.5.3",
+    "mocker-data-generator": "^2.12.0",
+    "nodemon": "^2.0.7",
+    "selenium-webdriver": "*"
+  },
+  "devDependencies": {}
+}
